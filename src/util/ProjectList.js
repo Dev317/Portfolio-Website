@@ -9,7 +9,7 @@ export const projectList = [
     {
         name: "AP Coach",
         image: APCoach,
-        about : "AP-Coach is an AI-based formative feedback generation to improve student learning outcomes in introductory programming courses",
+        about : "An AI-based formative feedback generation to improve student learning outcomes in introductory programming courses",
         techstack: "Flask, jQuery, AWS",
         githubLink: "https://github.com/roystonlek/urpdevrepo"
     },
@@ -37,7 +37,7 @@ export const projectList = [
     {
         name: "Ascenda SpendTransaction",
         image: Ascenda,
-        about : "A serverless-based app that process 1GB transactions",
+        about : "A serverless-based app that processes 1GB credit card transactions a day",
         techstack: "AWS services, React.js, Terraform",
         githubLink: "https://github.com/Dev317/AscendaTransactionApp"
     },
