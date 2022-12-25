@@ -11,7 +11,7 @@ const About = () => {
       <div className="about">
         <h2>Hi, I am Minh!</h2>
         <div className="prompt">
-          <p>An aspiring developer with interest in Web Development and AI & Blockchain Research</p>
+          <p>An aspiring developer with interest in Web and Blockchain Development</p>
           <GitHubIcon onClick={() => window.open("https://github.com/Dev317", "_blank")}/>
         </div>
       </div>
